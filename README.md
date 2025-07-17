@@ -1,14 +1,15 @@
 🔥 Hotstar Clone
 A front-end clone of Disney+ Hotstar, built using HTML, CSS, and JavaScript. This project mimics the layout and styling of the real Hotstar website, showcasing carousels, movie sections, navbar, and interactive UI — purely with vanilla web technologies.
 
-Site
+---
 
 🛠️ Tech Stack
 HTML5
-
 CSS3
-
 JavaScript (ES6+)
+
+--- 
+
 
 🚀 Features
 ✅ Hotstar-style home page layout
@@ -22,6 +23,8 @@ JavaScript (ES6+)
 ✅ Interactive hover animations and button effects
 
 ❌ No backend/API (static content only)
+
+---
 
 🌐 Live Demo
 
